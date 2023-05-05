@@ -1,3 +1,17 @@
+.p-Home.Flex1 {
+display: flex;
+}
 .p-Home.BarChartmy {
 ;
+}
+.p-Home.Alert1 {
+padding-top: 15px;
+padding-left: 24px;
+padding-bottom: 15px;
+padding-right: 15px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+column-gap: 10px;
+justify-content: space-between;
 }
